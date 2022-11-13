@@ -10,6 +10,10 @@ app.get('/:user', (req, res) => {
     res.send('Hello '+req.params.user)
 })
 
+app.get('/hello', (req, res) => {
+  res.send('Hello world another time!')
+}) 
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
