@@ -1,0 +1,19 @@
+{
+  "name": "assignmentapp",
+  "version": "1.0.0",
+  "description": "BITS Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudheeshsekharan/assignmentApp.git"
+  },
+  "author": "Sudheesh S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudheeshsekharan/assignmentApp/issues"
+  },
+  "homepage": "https://github.com/sudheeshsekharan/assignmentApp#readme"
+}
